@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace = "com.whf.code"
+    namespace = "com.whf.helloworld"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.whf.code"
+        applicationId = "com.whf.helloworld"
         minSdk = 24
         targetSdk = 34
         versionCode = 1

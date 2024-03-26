@@ -1,4 +1,4 @@
-package com.whf.code;
+package com.whf.helloworld;
 
 import org.junit.Test;
 

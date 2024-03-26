@@ -1,4 +1,4 @@
-package com.whf.code;
+package com.whf.helloworld;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("com.whf.code", appContext.getPackageName());
+        assertEquals("com.whf.helloworld", appContext.getPackageName());
     }
 }
