@@ -8,22 +8,32 @@
     android:orientation="vertical"
     tools:context=".MainActivity">
 
+<!--    <androidx.appcompat.widget.Toolbar-->
+<!--        android:id="@+id/toolbar"-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="?attr/actionBarSize"-->
+<!--        android:background="?attr/colorPrimary"-->
+<!--        android:elevation="4dp"-->
+<!--        android:theme="@style/ThemeOverlay.AppCompat.ActionBar"-->
+<!--        app:popupTheme="@style/ThemeOverlay.AppCompat.Light"-->
+<!--        app:title="Hello"/>-->
+
     <androidx.appcompat.widget.Toolbar
         android:id="@+id/toolbar"
         android:layout_width="match_parent"
         android:layout_height="?attr/actionBarSize"
-        android:background="?attr/colorPrimary"
-        android:elevation="4dp"
-        android:theme="@style/ThemeOverlay.AppCompat.ActionBar"
-        app:popupTheme="@style/ThemeOverlay.AppCompat.Light"
-        app:title="Hello"/>
+        style="@style/Theme.Toolbar"
+        app:title="Hello" />
+
 
     <TextView
+        android:id="@+id/tv_send"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="200sp"
         android:gravity="center"
-        android:text="Hello World!" />
+        android:textSize="20dp"
+        android:text="Welcome to New Island！" />
 
     <Button
         android:id="@+id/btn_pop"
@@ -32,5 +42,27 @@
         android:layout_gravity="center"
         android:layout_marginTop="100sp"
         android:text="@string/Popups" />
+
+    <TextView
+        android:id="@+id/tv_request"
+        android:layout_width="match_parent"
+        android:layout_marginTop="20sp"
+        android:layout_height="wrap_content"
+        android:gravity="center"/>
+
+    <Button
+        android:id="@+id/btn_request"
+        android:layout_marginTop="5sp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="传送请求数据"/>
+
+    <TextView
+        android:id="@+id/tv_response"
+        android:layout_marginTop="5sp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"/>
 
 </LinearLayout>
