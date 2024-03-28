@@ -76,6 +76,4 @@ public class SecondActivity extends BaseActivity {
     }
 
 
-
-
 }

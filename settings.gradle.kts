@@ -23,3 +23,4 @@ dependencyResolutionManagement {
 rootProject.name = "FirstLineOfCode"
 include(":app")
 include(":app:helloworld")
+include(":app:uiapplication")

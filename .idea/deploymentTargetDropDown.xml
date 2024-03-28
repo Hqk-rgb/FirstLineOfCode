@@ -5,6 +5,9 @@
       <entry key="app.helloworld">
         <State />
       </entry>
+      <entry key="app.uiapplication">
+        <State />
+      </entry>
     </value>
   </component>
 </project>
