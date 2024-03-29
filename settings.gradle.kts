@@ -24,3 +24,4 @@ rootProject.name = "FirstLineOfCode"
 include(":app")
 include(":app:helloworld")
 include(":app:uiapplication")
+include(":app:fragment")
