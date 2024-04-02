@@ -14,6 +14,9 @@
       <entry key="app.persistence">
         <State />
       </entry>
+      <entry key="app.runtimepermission">
+        <State />
+      </entry>
       <entry key="app.uiapplication">
         <State />
       </entry>

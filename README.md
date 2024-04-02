@@ -18,4 +18,8 @@ Broadcast 静态注册、动态注册、本地广播、强制下线
 
 ## Chapter 6
 
-数据存储；文件、SharedPreferences、SQLite存储
+数据存储：文件、SharedPreferences、SQLite存储
+
+## Chapter 7
+
+ContentProvider：运行时权限，访问其他程序中的数据，创建自己的ContentProvider
