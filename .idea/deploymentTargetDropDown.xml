@@ -11,6 +11,9 @@
       <entry key="app.helloworld">
         <State />
       </entry>
+      <entry key="app.network">
+        <State />
+      </entry>
       <entry key="app.persistence">
         <State />
       </entry>

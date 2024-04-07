@@ -13,6 +13,7 @@
             <option value="$PROJECT_DIR$/app/broadcast" />
             <option value="$PROJECT_DIR$/app/fragment" />
             <option value="$PROJECT_DIR$/app/helloworld" />
+            <option value="$PROJECT_DIR$/app/network" />
             <option value="$PROJECT_DIR$/app/persistence" />
             <option value="$PROJECT_DIR$/app/runtimepermission" />
             <option value="$PROJECT_DIR$/app/uiapplication" />
