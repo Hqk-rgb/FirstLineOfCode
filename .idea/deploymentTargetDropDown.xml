@@ -5,6 +5,22 @@
       <entry key="app.broadcast">
         <State />
       </entry>
+      <entry key="app.download">
+        <State>
+          <targetSelectedWithDropDown>
+            <Target>
+              <type value="QUICK_BOOT_TARGET" />
+              <deviceKey>
+                <Key>
+                  <type value="VIRTUAL_DEVICE_PATH" />
+                  <value value="C:\Users\dell\.android\avd\Pixel_7_API_30.avd" />
+                </Key>
+              </deviceKey>
+            </Target>
+          </targetSelectedWithDropDown>
+          <timeTargetWasSelectedWithDropDown value="2024-04-09T01:17:00.305250200Z" />
+        </State>
+      </entry>
       <entry key="app.fragment">
         <State />
       </entry>
@@ -18,6 +34,12 @@
         <State />
       </entry>
       <entry key="app.runtimepermission">
+        <State />
+      </entry>
+      <entry key="app.service">
+        <State />
+      </entry>
+      <entry key="app.thread">
         <State />
       </entry>
       <entry key="app.uiapplication">
