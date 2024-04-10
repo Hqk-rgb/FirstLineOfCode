@@ -32,3 +32,5 @@ include(":app:network")
 include(":app:thread")
 include(":app:service")
 include(":app:download")
+
+include(":app:material")

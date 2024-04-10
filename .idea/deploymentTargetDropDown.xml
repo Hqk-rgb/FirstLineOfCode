@@ -27,6 +27,22 @@
       <entry key="app.helloworld">
         <State />
       </entry>
+      <entry key="app.material">
+        <State>
+          <runningDeviceTargetSelectedWithDropDown>
+            <Target>
+              <type value="RUNNING_DEVICE_TARGET" />
+              <deviceKey>
+                <Key>
+                  <type value="SERIAL_NUMBER" />
+                  <value value="A00000P660160300371" />
+                </Key>
+              </deviceKey>
+            </Target>
+          </runningDeviceTargetSelectedWithDropDown>
+          <timeTargetWasSelectedWithDropDown value="2024-04-10T02:47:39.710448Z" />
+        </State>
+      </entry>
       <entry key="app.network">
         <State />
       </entry>
