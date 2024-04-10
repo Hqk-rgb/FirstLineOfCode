@@ -52,6 +52,7 @@ public class FruitActivity extends AppCompatActivity {
             fruitContent.append(fruitName);
         }
         return fruitContent.toString();
+        // 测试 git
     }
 
 
