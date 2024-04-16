@@ -35,3 +35,7 @@ Service：多线程编程、基本用法、生命周期、服务与活动通信
 ## Chapter 10
 
 Material Design：Toolbar、滑动菜单、悬浮按钮和可交互提示、卡片式布局、下拉刷新、可折叠式标题栏
+
+## Chapter 11
+
+进阶高级技巧：全局获取Context，使用Intent传递对象，自定义Log，创建定时任务

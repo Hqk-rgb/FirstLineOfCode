@@ -85,12 +85,8 @@ public class MainActivity extends AppCompatActivity {
         //实现RecyclerView下拉刷新逻辑
         swipeRefreshLayout = (SwipeRefreshLayout) findViewById(R.id.swipe_refresh);
         swipeRefreshLayout.setColorSchemeResources(R.color.colorPrimary);  //设置下拉刷新进度条颜色
-        swipeRefreshLayout.setOnRefreshListener(new SwipeRefreshLayout.OnRefreshListener() {  //设置下拉监听器
-            @Override
-            public void onRefresh() {
-                refreshFruits();  //下拉RecyclerView刷新水果列表
-            }
-        });
+        //设置下拉监听器
+        swipeRefreshLayout.setOnRefreshListener(this::refreshFruits);
 
     }
 

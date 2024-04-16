@@ -34,3 +34,4 @@ include(":app:service")
 include(":app:download")
 
 include(":app:material")
+include(":app:advanced")
